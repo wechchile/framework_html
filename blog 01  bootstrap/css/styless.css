@@ -1,0 +1,29 @@
+#redesociales{
+	width: 30px;
+	height: 30px;
+}
+
+#logo{
+	width: 200px;
+	height: 100px;
+}
+#cl1{
+	background-color: red;
+}
+
+#cl2{
+	background-color: black;
+}
+#de{
+	background-color: red;
+}
+
+#linea1{
+	height: 75%;
+	width: 100px;
+}
+#social{
+	 float: right;
+	 width: 200px;
+	 height: 40px;
+}
