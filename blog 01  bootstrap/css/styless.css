@@ -1,6 +1,6 @@
 
-body{
-	background-color: red;
+body,#espacio{
+	background-color: #D3B976;
 }
 
 #control{
@@ -18,36 +18,9 @@ body{
 	color: red;*/
 	background-color: #
 }
-#cl1{
-	background-color: red;
-}
 
-#cl2{
-	background-color: black;
-}
-#de{
-	background-color: red;
-}
-
-#linea1{
-	height: 75%;
-	width: 100px;
-}
 #social{
 	 float: right;
 	/* border-style: solid;
 	 color: blue;*/
-}
-#tieu{
- 	border-style: solid;
-	color: black;
-}
-
-#a1{
-	border-style: solid;
-	color: blue;
-}
-#a2{
-	border-style: solid;
-	color: black;
 }
