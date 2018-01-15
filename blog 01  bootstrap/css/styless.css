@@ -16,11 +16,20 @@ body,#espacio{
 	height: 150px;*/
 	/*border-style: solid;
 	color: red;*/
-	background-color: #
+	background-color:  #EEEEEE;
 }
 
 #social{
 	 float: right;
 	/* border-style: solid;
 	 color: blue;*/
+}
+li:hover{
+	background-color: red;
+}
+ul{
+	background-color: #EEEEEE;
+}
+#busc{
+	background-color: #EEEEEE;
 }
