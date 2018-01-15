@@ -1,11 +1,22 @@
+
+body{
+	background-color: red;
+}
+
+#control{
+	background-color: white;
+}
 #redesociales{
 	width: 30px;
 	height: 30px;
 }
 
 #logo{
-	width: 200px;
-	height: 100px;
+	/*width: 200px;
+	height: 150px;*/
+	/*border-style: solid;
+	color: red;*/
+	background-color: #
 }
 #cl1{
 	background-color: red;
@@ -24,6 +35,19 @@
 }
 #social{
 	 float: right;
-	 width: 200px;
-	 height: 40px;
+	/* border-style: solid;
+	 color: blue;*/
+}
+#tieu{
+ 	border-style: solid;
+	color: black;
+}
+
+#a1{
+	border-style: solid;
+	color: blue;
+}
+#a2{
+	border-style: solid;
+	color: black;
 }
