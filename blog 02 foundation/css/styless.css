@@ -1,0 +1,17 @@
+body{
+	background: url("../imagen/fondo.jpg")no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;;
+
+}
+/*
+
+#a{
+	border:solid;
+	border-color: red;
+}
+
+#b{
+	border:solid;
+	border-color: blue;
+}*/
