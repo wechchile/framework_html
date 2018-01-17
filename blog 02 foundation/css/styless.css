@@ -1,5 +1,5 @@
 body{
-	background: url("../imagen/fondo.jpg")no-repeat center center;
+	/*background: url("../imagen/fondo.jpg")no-repeat center center;*/
     background-size: cover;
     background-attachment: fixed;;
 
@@ -15,3 +15,7 @@ body{
 	border:solid;
 	border-color: blue;
 }*/
+
+h5{
+	text-
+}
