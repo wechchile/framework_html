@@ -6,15 +6,25 @@ body{
 }
 #contendor{
 	background-color: rgb(200, 182, 243);
+	z-index: 1;
 }
 
 
 #mizq{
 	background-color: rgb(219, 238, 186);
 	border-radius: 20px;
+	z-index: 2;
 
 }
 
 #pic{
 	width: 100%;
+	border: 40px;
+	border-color: white;
+}
+
+#mdec{
+	background-color: #D1F5EF; 
+	z-index:2;
+	border-radius: 20px;
 }
