@@ -7,6 +7,7 @@ body{
 #contendor{
 	background-color: rgb(200, 182, 243);
 	z-index: 1;
+	opacity: 3;
 }
 
 
@@ -19,7 +20,7 @@ body{
 
 #pic{
 	width: 100%;
-	border: 40px;
+	border: 10px solid;
 	border-color: white;
 }
 
