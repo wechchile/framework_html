@@ -4,14 +4,13 @@ body{
     background-attachment: fixed;;
 
 }
-/*
-
-#a{
-	border:solid;
-	border-color: red;
+#contendor{
+	background-color: rgb(200, 182, 243);
 }
 
-#b{
-	border:solid;
-	border-color: blue;
-}*/
+
+#mizq{
+	background-color: rgb(219, 238, 186);
+
+}
+
