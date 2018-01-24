@@ -1,6 +1,22 @@
 div#herd1{
-	width: 150px;
+	height: 150px;
 	
 	background-color: blue;
 
+}
+
+body{
+	background-image: url("../imagenes/los andes.jpg");
+	height: 100%;
+	width: 100%;
+	/*border-color: blue, solid, 150px;*/
+
+}
+
+@bored border-radio($radius){
+	-webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+      
 }
