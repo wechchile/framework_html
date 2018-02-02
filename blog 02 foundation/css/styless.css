@@ -5,9 +5,9 @@ body{
 
 }
 #contendor{
-	background-color: rgb(200, 182, 243);
+	background-color: rgba(200, 182, 243,.6);
 	z-index: 1;
-	opacity: 1;
+	
 }
 
 
