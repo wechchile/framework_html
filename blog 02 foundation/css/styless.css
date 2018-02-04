@@ -38,3 +38,7 @@ img#pic1{
 	border-color: black;
 	border-radius: 1px;
 }
+div#comentario{
+	border: 1px solid;
+	border-radius: 15px;
+}
