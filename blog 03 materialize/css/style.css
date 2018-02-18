@@ -6,7 +6,7 @@ div#herd1{
 }
 
 body{
-	background-image: url("../imagenes/los andes.jpg");
+	/*background-image: url("../imagenes/los andes.jpg");
 	height: 100%;
 	width: 100%;
 	/*border-color: blue, solid, 150px;*/
@@ -19,4 +19,14 @@ body{
       -ms-border-radius: $radius;
           border-radius: $radius;
       
+}
+#contenedor{
+
+}
+
+#pic-1{
+	border-top: 100px solid blue;
+
+	width: 100%;
+	height: 100%;
 }
