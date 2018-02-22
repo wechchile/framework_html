@@ -6,19 +6,29 @@ div#herd1{
 }
 
 body{
-	/*background-image: url("../imagenes/los andes.jpg");
+	background-image: url("../imagenes/fondo.jpg");
 	height: 100%;
 	width: 100%;
-	/*border-color: blue, solid, 150px;*/
+	border-color: blue, solid, 150px;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
 
 }
 
-@bored border-radio($radius){
+@mixin border-radius($radius){
 	-webkit-border-radius: $radius;
      -moz-border-radius: $radius;
       -ms-border-radius: $radius;
           border-radius: $radius;
       
+}
+#logo{
+	width: 100px;
+	height: 100px;
+    -webkit-border-radius: 30px;
+     -moz-border-radius: 30px;
+      -ms-border-radius: 30px;
+          border-radius: 30px;
 }
 #contenedor{
 
@@ -50,8 +60,15 @@ body{
 #imagen3{
 	width: 250px;
 	height: 300px;
+	float: left;
+	margin-left: 5px;
 }
 
 #conte{
-	background-color: #E8E4E4;
+	/*background-color: #E8E4E4;*/
+}
+
+#fotocara{
+	width: 100%;
+	height: 100%;
 }
