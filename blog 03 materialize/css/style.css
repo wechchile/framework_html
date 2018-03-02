@@ -1,0 +1,88 @@
+div#herd1{
+	height: 150px;
+	
+	background-color: blue;
+
+}
+
+body{
+	background-image: url("../imagenes/fondo.jpg");
+	height: 100%;
+	width: 100%;
+	border-image: 150px solid blue;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+
+}
+
+@mixin border-radius($radius){
+	-webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+      
+}
+h3{
+	color: red;
+}
+#logo{
+	width: 200px;
+	height: 200px;
+    -webkit-border-radius: 30px;
+     -moz-border-radius: 30px;
+      -ms-border-radius: 30px;
+          border-radius: 30px;
+}
+#contenedor{
+
+}
+
+#pic-1{
+	border-top: 100px solid blue;
+
+	width: 100%;
+	height: 100%;
+}
+
+#social{
+	width: 40px;
+	height: 40px;
+}
+
+#imagen1{
+	width: 100%;
+}
+#imagen2{
+	width: 100%;
+	border: 0px;
+}
+
+#bordes{
+	border: 0px;
+}
+#imagen3{
+	width: 250px;
+	height: 300px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#conte{
+	/*background-color: #E8E4E4;*/
+}
+
+#fotocara{
+	width: 100%;
+	height: 100%;
+	/*margin-right: 15px;
+	margin-left: 15px;*/
+}
+p#comentario{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#fondo{
+	background-color: white;
+}
