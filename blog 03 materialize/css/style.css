@@ -86,3 +86,15 @@ p#comentario{
 #fondo{
 	background-color: white;
 }
+@media  all and(min-width: 900px){
+
+	#orden1{
+		z-index: 1;
+	}
+	#orden2{
+		z-index: 3;
+	}
+	#orden3{
+		z-index: 2;
+	}
+}
